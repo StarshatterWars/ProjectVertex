@@ -73,6 +73,11 @@
 				"Win64",
 				"Mac"
 			]
+		},
+		{
+			"Name": "DataDrivenItems",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/076211a4ea43416db22138d17ee1dfe4"
 		}
 	]
 }
