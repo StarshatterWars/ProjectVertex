@@ -1,4 +1,4 @@
-Row,UPC,Product_Name,Location_ID,Wide,High,Deep,X_SIZE,Y_SIZE,Z_SIZE,Height,Width,Depth,Full_height,Full_width,Full_depth,Location
+Row,UPC,Product_Name,Location_ID,Wide,High,Deep,X_SIZE,Y_SIZE,Z_SIZE,Height,Width,Depth,Full_height,Full_width,Full_depth,Shelve
 1,3700035762,DOWNY April Fresh 60 load 51 oz,116,3,1,6,0.00 in,63.00 in,2.80 in,10.79 in,16.41 in,22.20 in,10.79 in,5.47 in,3.70 in,5
 2,3700075488,Downy Cool Cotton 51 oz 60 load,117,2,1,6,16.41 in,63.00 in,2.74 in,10.78 in,10.94 in,22.26 in,10.78 in,5.47 in,3.71 in,5
 3,3700039300,DOWNY LQ CB 8/51Z 60LD,118,2,1,6,27.35 in,63.00 in,2.74 in,10.78 in,10.94 in,22.26 in,10.78 in,5.47 in,3.71 in,5
@@ -68,7 +68,7 @@ Row,UPC,Product_Name,Location_ID,Wide,High,Deep,X_SIZE,Y_SIZE,Z_SIZE,Height,Widt
 67,3500045022,SUAVITEL COMPLETE FF 120,8,2,1,5,97.49 in,7.00 in,0.75 in,12.30 in,16.15 in,27.25 in,12.30 in,8.07 in,5.45 in,1
 68,3500039323,SUAV Complete FF 40,9,2,1,9,113.63 in,7.00 in,1.00 in,12.00 in,10.15 in,27.00 in,12.00 in,5.07 in,3.00 in,1
 69,PL LFE 41oz,Private Label Fabric Softener,10,2,1,7,123.78 in,7.00 in,2.80 in,10.78 in,10.15 in,25.20 in,10.78 in,5.07 in,3.60 in,1
-70,PL LFE 41ozx,Private Label Fabric Softener,11,2,1,7,133.93 in,7.00 in,2.80 in,10.78 in,10.15 in,25.20 in,10.78 in,5.07 in,3.60 in,1
+70,PL LFE 41oz,Private Label Fabric Softener,11,2,1,7,133.93 in,7.00 in,2.80 in,10.78 in,10.15 in,25.20 in,10.78 in,5.07 in,3.60 in,1
 71,3700076360,DWY UNSTPBLS FRSH 20.1 oz,148,3,1,6,144.00 in,69.50 in,3.04 in,10.91 in,11.12 in,21.96 in,10.91 in,3.71 in,3.66 in,16
 72,3700052470,Downy Beads Infusions Calm Lavender & Vanilla Bean,149,1,1,6,155.12 in,69.50 in,3.04 in,10.91 in,3.71 in,21.96 in,10.91 in,3.71 in,3.66 in,16
 73,3700052466,Downy Beads Infusions Bliss Sparkling Amber & Rose,150,1,1,6,158.82 in,69.50 in,3.04 in,10.91 in,3.71 in,21.96 in,10.91 in,3.71 in,3.66 in,16
