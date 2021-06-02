@@ -75,9 +75,9 @@
 			]
 		},
 		{
-			"Name": "DataDrivenItems",
+			"Name": "DataSerialization",
 			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/076211a4ea43416db22138d17ee1dfe4"
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/51bfff9f8bc34c3d8072b31455965276"
 		}
 	]
 }
