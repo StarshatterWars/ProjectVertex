@@ -1,0 +1,2 @@
+copy this plugin to:
+C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Marketplace

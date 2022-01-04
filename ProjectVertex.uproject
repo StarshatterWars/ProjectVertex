@@ -4,6 +4,13 @@
 	"Category": "",
 	"Description": "",
 	"Enterprise": true,
+	"Modules": [
+		{
+			"Name": "ProjectVertex",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "SunPosition",
@@ -78,6 +85,65 @@
 			"Name": "DataSerialization",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/51bfff9f8bc34c3d8072b31455965276"
+		},
+		{
+			"Name": "DynamicDataTable",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/4c7c4f8d523f4c90b2e26d23502c526c"
+		},
+		{
+			"Name": "TemplatesUMG",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/ec2ebdcd22954680b7b384cdd32b7772"
+		},
+		{
+			"Name": "TreeViewControl",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/949b3b8683e742d5b1d5132ef12389ff"
+		},
+		{
+			"Name": "Takes",
+			"Enabled": true
+		},
+		{
+			"Name": "FileManAdvanced",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/074bb96d3dac4b70a16943022d335401"
+		},
+		{
+			"Name": "DLSS",
+			"Enabled": true,
+			"MarketplaceURL": "https://www.unrealengine.com/marketplace/en-US/product/nvidia-dlss"
+		},
+		{
+			"Name": "GPULightmass",
+			"Enabled": true
+		},
+		{
+			"Name": "ExtraWidgets",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/0acdcf17c1324260893f7ed5f9d32974"
+		},
+		{
+			"Name": "SoundUtilities",
+			"Enabled": true
+		},
+		{
+			"Name": "SoundCueTemplates",
+			"Enabled": true
+		},
+		{
+			"Name": "DataTableSaveBluprintLibrary",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/5abf886c0a14469d979928d01cacba83"
+		},
+		{
+			"Name": "RuntimeTransformer",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/289c74dbc9614a77b67cf0c414ca43e0"
 		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor"
 	]
 }

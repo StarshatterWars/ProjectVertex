@@ -1,0 +1,13 @@
+﻿row,type,description,height,width,depth,offset,id
+1,Shelf,6,h: 1.25 in,w: 480.00 in,d: 22.00 in,o: 0,22X48 SHELF
+2,Shelf,5,h: 1.25 in,w: 480.00 in,d: 30.00 in,o: 0,22X48 SHELF
+3,Shelf,4,h: 1.25 in,w: 480.00 in,d: 22.00 in,o: 0,22X48 SHELF
+4,Shelf,3,h: 1.25 in,w: 480.00 in,d: 22.00 in,o: 0,22X48 SHELF
+5,Shelf,2,h: 1.25 in,w: 480.00 in,d: 22.00 in,o: 0,22X48 SHELF
+6,Shelf,1,h: 1.25 in,w: 480.00 in,d: 24.00 in,o: 0,DECK SIDE GOND 24X48 WHITE
+7,Shelf,6,h: 1.25 in,w: 48.00 in,d: 22.00 in,o: 20,22X48 SHELF
+8,Shelf,5,h: 1.25 in,w: 48.00 in,d: 30.00 in,o: 20,22X48 SHELF
+9,Shelf,4,h: 1.25 in,w: 48.00 in,d: 22.00 in,o: 20,22X48 SHELF
+10,Shelf,3,h: 1.25 in,w: 48.00 in,d: 22.00 in,o: 20,22X48 SHELF
+11,Shelf,2,h: 1.25 in,w: 48.00 in,d: 22.00 in,o: 20,22X48 SHELF
+12,Shelf,1,h: 1.25 in,w: 48.00 in,d: 24.00 in,o: 20,DECK SIDE GOND 24X48 WHITE

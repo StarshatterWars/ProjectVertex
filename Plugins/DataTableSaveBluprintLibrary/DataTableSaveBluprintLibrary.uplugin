@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 3,
+	"VersionName": "1.2",
+	"FriendlyName": "DataTable Update Library",
+	"Description": "Help developers procedurally update DataTable",
+	"Category": "Blueprints",
+	"CreatedBy": "wuguyannian",
+	"CreatedByURL": "https://wuguyannian.com",
+	"DocsURL": "https://wuguyannian.com/2020/01/05/ue4plugin/ue4-plugin-datatablesave",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/5abf886c0a14469d979928d01cacba83",
+	"SupportURL": "",
+	"EngineVersion": "4.26.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "DataTableSaveBluprintLibrary",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen",
+			"WhitelistPlatforms": [
+				"Win64",
+				"Win32"
+			]
+		}
+	]
+}
